@@ -3,7 +3,6 @@
 ### Trying to get better each day
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Back-End & Front-End Web-development
 - 🌱 I’m currently learning DBMS.
