@@ -1,7 +1,7 @@
 # About Me,
 ## Ishaan Shanker
 ### A sophomore at NIT-Patna
-### Trying to get better each day
+
 
 
 
