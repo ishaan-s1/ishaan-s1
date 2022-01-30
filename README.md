@@ -1,6 +1,6 @@
 # About Me,
 ## Ishaan Shanker 
-### A sophomore at NIT-Patna
+### Junior at NIT-Patna
 
 <!-- - 🔭 I’m currently working on Back-End & Front-End Web-development -->
 
